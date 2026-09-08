@@ -1,0 +1,25 @@
+flipkart functional and non functional requirements
+
+Introduction
+Flipkart is an Indian e-commerce platform that allows customers to create an account, search products, view product details, compare prices, read reviews, add products to a cart and place orders. Major categories include electronics, mobile phones, clothing, home appliances and groceries. The system connects customers, sellers, warehouses, payment services and delivery partners. It supports order tracking, returns, refunds, ratings, reviews and notifications.
+
+Functional Requirements
+1. Customer registration, login and profile management.
+2. Product search by keywords and categories with filters and price range.
+3. Display product name, images, price, description, availability, ratings and reviews.
+4. Add products to cart and change or remove cart items.
+5. Checkout and order placement.
+6. Multiple payment options and payment processing.
+7. Order confirmation and order history.
+8. Delivery tracking.
+9. Order cancellation, returns and refunds.
+10. Product ratings and reviews.
+
+Non-Functional Requirements
+1. Fast response time.
+2. Security for accounts, personal data and payment data.
+3. Reliability and availability.
+4. Scalability during high-traffic sale events.
+5. User-friendly interface across devices.
+6. Data accuracy and integrity.
+7. Backup and recovery.
